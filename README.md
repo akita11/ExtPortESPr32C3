@@ -4,8 +4,14 @@
 
 [スイッチサイエンス社のESPr® Developer C3](https://www.switch-science.com/products/9185)に接続して最大4つのGroveコネクタを増設し、複数のGrove接続のUNIT等を接続することができます。
 
+<img src="https://github.com/akita11/ExtPortESPr32C3/blob/main/ExtPortESPr32C3_with_ESPr.jpg" width="240px">
+
 
 ## Groveコネクタのピン配置
+
+<img src="https://github.com/akita11/ExtPortESPr32C3/blob/main/ExtPortESPr32C3-F.jpg" width="240px">
+
+<img src="https://github.com/akita11/ExtPortESPr32C3/blob/main/ExtPortESPr32C3-B.jpg" width="240px">
 
 4つのGroveコネクタのピン配置は以下のとおりです。
 VDD（電源+5V）はESPr® Developer C3から供給されます。
