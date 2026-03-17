@@ -6,6 +6,9 @@
 
 <img src="https://github.com/akita11/ExtPortESPr32C3/blob/main/ExtPortESPr32C3_with_ESPr.jpg" width="240px">
 
+ESPr® Developer C3は上図の向きに接続してください。
+（ESPr® Developer C3にヘッダピンを取り付けていない場合は、はんだ付けしてください）
+
 
 ## Groveコネクタのピン配置
 
@@ -20,6 +23,8 @@ VDD（電源+5V）はESPr® Developer C3から供給されます。
 - PortB（黒）: IO4/IO5/VDD/GND
 - PortC（青）: IO20/IO21/VDD/GND
 - PortD（緑）: IO8/IO9/VDD/GND
+
+なおESPr® Developer C3の横の端子には、ESPr® Developer C3の各端子がそのまま接続されています。
 
 
 ## Author
